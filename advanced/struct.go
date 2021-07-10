@@ -59,4 +59,6 @@ func runStruct() {
 
 	value := sv.Elem().Field(0)
 	fmt.Println(value)
+
+	// reverse engineering of struct
 }
